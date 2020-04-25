@@ -19,8 +19,8 @@ Nous avons créé tout d'abord la base d'un jeu type Wargame. L'optimisateur n'e
 3. Amusez-vous !
 
 ## Auteurs du projet
-- KABORI Hamza - 21810781
-- LUCCHINI Melvin - 21802795
-- MOK William - 21808205
-- PAIS OLIVEIRA Lorenzo - 21810530
-- LETELLIER Guillaume (moi) - 21804030
+- KABORI Hamza
+- LUCCHINI Melvin
+- @akbeeh
+- PAIS OLIVEIRA Lorenzo
+- LETELLIER Guillaume
