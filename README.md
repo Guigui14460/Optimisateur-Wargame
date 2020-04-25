@@ -21,6 +21,6 @@ Nous avons créé tout d'abord la base d'un jeu type Wargame. L'optimisateur n'e
 ## Auteurs du projet
 - KABORI Hamza
 - LUCCHINI Melvin
-- [MOK William](@akbeeh)
+- [MOK William](https://github.com/Akbeeh)
 - PAIS OLIVEIRA Lorenzo
-- [LETELLIER Guillaume](@Guigui14460)
+- [LETELLIER Guillaume](https://github.com/Guigui14460)
