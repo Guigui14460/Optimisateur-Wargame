@@ -17,8 +17,8 @@ Nous avons créé tout d'abord la base d'un jeu type Wargame. L'optimisateur n'e
 1. Python doit être installé avec une version **>=3.6** (pas testé sous des versions antérieures).
 2. PyGame doit être installé. Pour cela, lancez la commande : ```pip install pygame``` ou ```pip install pygame==1.9.x```
 3. Amusez-vous !
-
 -------------
+
 ## Auteurs du projet
 - KABORI Hamza - 21810781
 - LUCCHINI Melvin - 21802795
