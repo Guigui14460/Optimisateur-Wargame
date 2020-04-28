@@ -1,6 +1,6 @@
 # Optimisateur de Wargame
 
-Projet universitaire proposé par l'Université de Caen Normandie afin d'approfondir notre connaissance dans la conception de logiciel.
+Projet universitaire proposé dans l'UE de Conception Logicielle en L1 Informatique à l'Université de Caen Normandie afin d'approfondir notre connaissance dans la conception de logiciel.
 
 <img src="logo-UNICAEN.jpg" style="width: 100px;" />
 
