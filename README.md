@@ -27,7 +27,7 @@ pip3 install pygame
 
 ## Auteurs du projet
 - KABORI Hamza
-- LUCCHINI Melvin
+- [LUCCHINI Melvin](https://github.com/ChivaSdev)
 - [MOK William](https://github.com/Akbeeh)
 - PAIS OLIVEIRA Lorenzo
 - [LETELLIER Guillaume](https://github.com/Guigui14460)
